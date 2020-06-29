@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.e7fc19ee.chunk.css",
+    "main.js": "/mysite/static/js/main.5bf0330e.chunk.js",
+    "main.js.map": "/mysite/static/js/main.5bf0330e.chunk.js.map",
+    "runtime-main.js": "/mysite/static/js/runtime-main.1d89857a.js",
+    "runtime-main.js.map": "/mysite/static/js/runtime-main.1d89857a.js.map",
+    "static/js/2.44349147.chunk.js": "/mysite/static/js/2.44349147.chunk.js",
+    "static/js/2.44349147.chunk.js.map": "/mysite/static/js/2.44349147.chunk.js.map",
+    "index.html": "/mysite/index.html",
+    "precache-manifest.61095fb38cc806edb03513df7dcd0d4f.js": "/mysite/precache-manifest.61095fb38cc806edb03513df7dcd0d4f.js",
+    "service-worker.js": "/mysite/service-worker.js",
+    "static/css/main.e7fc19ee.chunk.css.map": "/mysite/static/css/main.e7fc19ee.chunk.css.map",
+    "static/js/2.44349147.chunk.js.LICENSE.txt": "/mysite/static/js/2.44349147.chunk.js.LICENSE.txt",
+    "static/media/avataars.svg": "/mysite/static/media/avataars.6a5e617a.svg",
+    "static/media/cabin.png": "/mysite/static/media/cabin.56ec4ee7.png",
+    "static/media/cake.png": "/mysite/static/media/cake.a29c0b43.png",
+    "static/media/circus.png": "/mysite/static/media/circus.e27c88e5.png",
+    "static/media/game.png": "/mysite/static/media/game.107d31e8.png",
+    "static/media/App.css": "/mysite/static/media/img2.dfa7703b.jpg",
+    "static/media/safe.png": "/mysite/static/media/safe.7dfdcf55.png",
+    "static/media/submarine.png": "/mysite/static/media/submarine.8fad4ff9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d89857a.js",
+    "static/js/2.44349147.chunk.js",
+    "static/css/main.e7fc19ee.chunk.css",
+    "static/js/main.5bf0330e.chunk.js"
+  ]
+}
